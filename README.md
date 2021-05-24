@@ -15,4 +15,4 @@ Please for this repository and then issue Pull Requests for review.
 
 ## Copyright
 
-2021 Git Training
+2021 Git Training. All rights reserved
